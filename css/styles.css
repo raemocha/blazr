@@ -36,7 +36,7 @@ body {
 }
 
 #title {
-  background-color: #00204a;
+/*   background-color: #00204a; */
   color: white;
   background-image: url("/images/music-3.jpg");
   background-size: cover;
