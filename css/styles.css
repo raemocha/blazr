@@ -29,6 +29,7 @@ body {
   line-height: 1.5;
   font-size: 5.5rem;
   text-align: left;
+  display:block;
 }
 
 .container-fluid {
@@ -40,8 +41,7 @@ body {
   color: white;
   background-image: url(../images/music-3.jpg);
   background-size: cover;
-  height:80rem;
-  display:block;
+  height:80rem
 }
 
 
